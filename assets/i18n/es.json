@@ -1,0 +1,106 @@
+{
+
+  "menu": {
+    "inicio": "Inicio",
+    "registro": "Registro",
+    "academica": "Registro de Información Académica",
+    "casosdermatologicos": "Consultar Casos Dermatológicos",
+    "casosreclamados": "Consultar Casos Reclamados",
+    "cerrarsesion": "Cerrar Sesión",
+    "lenguaje": "Seleccione el lenguaje"
+  },
+
+
+ "login": {
+   "titulo": "Ingreso",
+   "aplicacion": "DermoSolutions",
+   "correo": "Correo Electrónico:",
+		"correorequerido": "El correo no puede quedar vacío",
+		"correoinvalido": "El correo no es valido",
+		"contrasena": "Contraseña",
+		"contrasenaminimo": "La contrasena debe tener minimo 10 caracteres",
+		"contrasenarequerida": "La contrasena no puede quedar vacía",
+		"botoningresar": "Ingresar",
+		"botoncancelar": "Cancelar",
+		"crearcuenta": "Crear Cuenta"
+	},
+
+  "registro": {
+    "tipoIdentificacion": "Tipo de identificación",
+    "numeroIdentificacion": "Número de identificación",
+    "sexo": "Sexo",
+    "nombres": "Nombres",
+    "apellidos": "Apellidos",
+    "fechanacimiento": "Fecha de Nacimiento",
+		"lugarnacimiento": "Lugar de Nacimiento",
+		"lugarresidencia": "Lugar de Residencia",
+    "celular": "número de Celular(móvil)",
+    "numeroRegistroProfesional": "Numero registro profesional",
+    "correo": "Correo electrónico",
+    "clave": "Contraseña / clave",
+    "aceptar": "Aceptar",
+		"salir": "Salir",
+    "especialidades": "Marque la especializaciones que posee"
+	},
+  "soporte": {
+    "medico": "Médico",
+    "tipo_soporte": "Tipo de soporte",
+    "institucion_educativa": "Institución educativa",
+    "nombre_programa": "Nombre del programa",
+    "descripcion": "Descripción",
+    "graduado": "¿Es graduado?",
+    "fecha_grado": "Fecha de grado",
+    "fecha_soporte": "Fecha de soporte",
+    "validado": "Validado",
+    "aceptar": "Aceptar",
+    "cancelar": "Cancelar",
+    "soportes": "Archivos de soporte",
+    "archivo": "Archivo",
+    "acciones": "Acciones",
+    "borrar":"Eliminar",
+    "ver":"Ver",
+    "vacio": "No hay soportes actualmente",
+    "borrarpreg": "¿ Desea borrar el soporte?.",
+    "encabezadocrear": "Adicionar soporte. ",
+    "tituloFormcrear":"Diligencie los siguientes datos",
+    "titulogeneral":"Registro Información Académica y Profesional del Médico"
+  },
+
+	"detallecaso": {
+    "tituloinformacionpaciente": "Información Personal",
+		"tituloinformacionpaciente2": "Paciente",
+    "nombres": "Nombres y Apellidos",
+    "edad": "Edad",
+		"nacionalidad": "Nacionalidad",
+		"sexo": "Sexo",
+		"lugarresidencia": "Lugar de Residencia",
+		"tituloperfildermatologico": "Perfil Dermatológico",
+    "informacionbasicalesion": "Información Básica de la Lesión del ",
+    "formalesion": "Forma de la Lesión",
+		"tipolesion": "Tipo de Lesión",
+		"numerolesion": "Número de Lesiones",
+		"colorlesion": "Color de la Lesión",
+		"localizacionydistribucionlesion": "Localización y Distribución de la Lesión",
+		"descripcionlesion": "Descripción de la Lesión",
+		"fotografialesion": "Fotografía de la Lesión",
+		"diagnostico": "Diagnóstico",
+    "diagnosticar": "Diagnosticar",
+    "reclamarcaso": "Reclamar Caso",
+		"salir": "Salir"
+	},
+
+  "listacaso": {
+    "tituloinformacionpaciente": "Personal information",
+		"tituloinformacionpaciente2": "Patient",
+    "nombres": "Nombres y Apellidos",
+    "edad": "Edad",
+		"nacionalidad": "Nacionalidad",
+		"sexo": "Sexo",
+		"salir": "Salir",
+    "fecha": "Fecha de Registro dd/MM/YYYY",
+    "descripcion": "Descripción",
+    "verdetalle": "Ver Detalle",
+    "diagnosticado": "Diagnosticado",
+    "pordiagnosticar": "Por Diagnosticar"
+	}
+}

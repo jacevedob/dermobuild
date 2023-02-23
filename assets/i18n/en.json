@@ -1,0 +1,107 @@
+{
+    "menu": {
+      "inicio": "Home",
+      "registro": "Registry",
+      "academica": "Academic Information Registry",
+      "casosdermatologicos": "Consult Dermatological Cases",
+      "casosreclamados": "Consult Claimed Cases",
+      "cerrarsesion": "Logout",
+      "lenguaje": "Select language"
+    },
+
+    "login": {
+    "titulo": "Ingreso",
+    "aplicacion": "DermoSolutions",
+    "correo": "Email:",
+		"correorequerido": "El correo no puede quedar vacío",
+		"correoinvalido": "El correo no es valido",
+		"contrasena": "Password",
+		"contrasenaminimo": "La contrasena debe tener minimo 10 caracteres",
+		"contrasenarequerida": "La contrasena no puede quedar vacía",
+		"botoningresar": "Ingresar",
+		"botoncancelar": "Cancel",
+		"crearcuenta": "Create Account"
+	},
+
+  "registro": {
+    "tipoIdentificacion": "ID Type",
+    "numeroIdentificacion": "Identification number",
+    "nombres": "Names",
+    "apellidos": "Last Names",
+    "fechanacimiento": "Date of Birth",
+		"lugarnacimiento": "Place of birth",
+    "celular": "Cell Phone",
+    "sexo": "Gender",
+    "lugarresidencia": "Place of residence",
+    "numeroRegistroProfesional": "Professional registration number",
+    "correo": "Email",
+    "clave": "Password",
+    "aceptar": "Accept",
+    "cancelar": "Cancel",
+		"salir": "Exit"
+	},
+  "soporte": {
+    "medico": "Doctor",
+    "tipo_soporte": "Support type",
+    "institucion_educativa": "Educational institution",
+    "nombre_programa": "Program namea",
+    "descripcion": "Description",
+    "graduado": "¿Graduate?",
+    "fecha_grado": "Degree date",
+    "fecha_soporte": "Support date",
+    "validado": "Validated",
+    "aceptar": "Accept",
+    "cancelar": "Cancel",
+    "soportes": "Support file",
+    "archivo": "File",
+    "acciones": "Actions",
+    "borrar":"Remove",
+    "ver":"View",
+    "vacio": "No Support found.",
+    "borrarpreg": "Do you delete record ?.",
+    "encabezadocrear": "Add support. ",
+    "tituloFormcrear": "Fill out the following information",
+    "titulogeneral":"Registration of Academic and Professional Information of the Physician"
+
+  },
+
+
+	"detallecaso": {
+    "tituloinformacionpaciente": "Personal information",
+		"tituloinformacionpaciente2": "Patient",
+    "nombres": "Names and surnames",
+    "edad": "Age",
+		"nacionalidad": "Nationality",
+		"sexo": "Sex",
+    "lugarresidencia": "Place of Residence",
+		"tituloperfildermatologico": "Dermatological Profile",
+    "informacionbasicalesion": "Basic Injury Information",
+		"formalesion": "Shape of the injury",
+		"tipolesion": "Type of the injury",
+		"numerolesion": "Number of injuries",
+		"colorlesion": "Color of injuries",
+		"localizacionydistribucionlesion": "Location and Distribution of the injury",
+		"descripcionlesion": "Description of the injury",
+		"fotografialesion": "Photograph of the injury",
+		"reclamarcaso": "Claim case",
+    "diagnostico": "Diagnosis",
+    "diagnosticar": "To Diagnose",
+		"salir": "Exit"
+	},
+
+  "listacaso": {
+    "tituloinformacionpaciente": "Personal information",
+		"tituloinformacionpaciente2": "Patient",
+    "nombres": "Names and surnames",
+    "edad": "Age",
+		"nacionalidad": "Nationality",
+		"sexo": "Sex",
+		"salir": "Exit",
+    "fecha": "Registration Date dd/MM/YYYY",
+    "descripcion": "Description",
+    "verdetalle": "See Detail",
+    "diagnosticado": "Diagnosed",
+    "pordiagnosticar": "To diagnose"
+
+	}
+}
